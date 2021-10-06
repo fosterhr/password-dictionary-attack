@@ -1,9 +1,9 @@
-#Password Dictionary Attack
+## Password Dictionary Attack
 
-##Usage
+### Usage
 `main.py -h <hash> -a <algorithm> -u <url>`
 
-##Arguments
+### Arguments
 * `-h` `-hash`  Hash of password to be revealed
 
 * `-a` `-algorithm` Algorithm to be used (md5, sha1, sha224, sha256, sha384, sha512)
